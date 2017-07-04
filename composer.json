@@ -1,5 +1,5 @@
 {
-    "name": "administrator/view",
+    "name": "suojinhua/view",
     "authors": [
         {
             "name": "suojinhua",
@@ -9,7 +9,7 @@
     "require": {},
     "autoload":{
         "psr-4":{
-            "suojinhua\\view\\":"/"
+            "suojinhua\\view\\":""
         }
     }
 }
