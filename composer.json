@@ -1,0 +1,15 @@
+{
+    "name": "administrator/view",
+    "authors": [
+        {
+            "name": "suojinhua",
+            "email": "suodong1210@foxmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "suojinhua\\view\\":"/"
+        }
+    }
+}
